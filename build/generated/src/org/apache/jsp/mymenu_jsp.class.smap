@@ -1,0 +1,16 @@
+SMAP
+mymenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 mymenu.jsp
+mymenu.jsp
++ 1 menubar2.jsp
+menubar2.jsp
+*L
+1,6:49
+1#1,13:55
+6#0,18:68
+24,16:87
+39,18:103
+*E

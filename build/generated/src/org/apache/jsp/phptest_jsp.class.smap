@@ -1,0 +1,14 @@
+SMAP
+phptest_jsp.java
+JSP
+*S JSP
+*F
++ 0 phptest.jsp
+phptest.jsp
++ 1 
+
+*L
+1,6:49
+1#1,70:55
+6#0,16:124
+*E
